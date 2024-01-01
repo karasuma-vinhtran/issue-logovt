@@ -2,11 +2,11 @@ Dự án: LOGOVT - Open source logos
 
 Mục đích: Giúp lập trình viên có thể thêm logo các app vào project của bạn thật nhanh mà ko cần phải tải, cắt , chỉnh sửa logo để tốn thêm thời gian
 
-Hoàn thành: 25-12-2023
+Hoàn thành: 25-12-2023 | Đang hoàn thiện UI-UX
 
-Công bố: 03-01-2024
+Dự kiến công bố: 05-01-2024
 
-Bởi: Vinh Trần (Karasuma)
+Được làm bởi: Vinh Trần (Karasuma)
 
 Profile: https://vinhtran-karasuma.netlify.app
 
