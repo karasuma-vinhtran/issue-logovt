@@ -2,9 +2,9 @@ Dự án: LOGOVT - Open source logos
 
 Mục đích: Giúp lập trình viên có thể thêm logo các app vào project của bạn thật nhanh mà ko cần phải tải, cắt , chỉnh sửa logo để tốn thêm thời gian
 
-Hoàn thành: 25-12-2023 | Đang hoàn thiện UI-UX
+Hoàn thành: 25-12-2023
 
-Dự kiến công bố: 05-01-2024
+Công bố: 05-01-2024
 
 Được làm bởi: Vinh Trần (Karasuma)
 
